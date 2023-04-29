@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gym-website/static/css/main.3f16df08.css",
+    "main.js": "/gym-website/static/js/main.03ed66ac.js",
+    "static/media/trainer.png": "/gym-website/static/media/trainer.d5ac997315b633881155.png",
+    "static/media/gym-02.png": "/gym-website/static/media/gym-02.06fd85c2c7a9d0f48978.png",
+    "static/media/avater3.png": "/gym-website/static/media/avater3.e5e14120e1bb9c5e21b9.png",
+    "static/media/avater1.png": "/gym-website/static/media/avater1.e9f1061153c928550382.png",
+    "static/media/avatar01.png": "/gym-website/static/media/avatar01.712b9be90c75dec89232.png",
+    "static/media/yoga-pose.png": "/gym-website/static/media/yoga-pose.1009817918cc6df26064.png",
+    "static/media/extended.png": "/gym-website/static/media/extended.65fee2ef368e447527a7.png",
+    "static/media/lunges1.png": "/gym-website/static/media/lunges1.52e48615ce527a095bcf.png",
+    "index.html": "/gym-website/index.html",
+    "main.3f16df08.css.map": "/gym-website/static/css/main.3f16df08.css.map",
+    "main.03ed66ac.js.map": "/gym-website/static/js/main.03ed66ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f16df08.css",
+    "static/js/main.03ed66ac.js"
+  ]
+}
